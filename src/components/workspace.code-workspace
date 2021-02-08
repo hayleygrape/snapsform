@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../something cool"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "im bad at things"
+	}
+}

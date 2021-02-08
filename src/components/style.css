@@ -1,0 +1,51 @@
+label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+}
+
+input,
+button,
+select,
+textarea {
+    margin: 0;
+    font-size: inherit;
+    line-height: inherit;
+    padding: 0.625rem;
+    border-radius: 5px;
+    border:rgba(160, 207, 235, 1)
+}
+
+.submit-button {
+    display: block;
+    width: 100%;
+    margin: 5;
+    padding: 0.5rem;
+    margin-top: 25px;
+    border-radius: 10px;
+    color: black
+}
+
+.prev {
+    letter-spacing: 2px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    padding-top: 20px;
+}
+
+.snap-message {
+    outline: auto;
+    outline-offset: 15px;
+}
+
+.no-comments{
+    padding-bottom: 200px;
+}
+
